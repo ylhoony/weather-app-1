@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./App.css";
 
 import Searchbar from "./containers/search_bar";
 import WeatherList from "./containers/weather_list";
